@@ -1,4 +1,4 @@
-Orden;Bloque;Masa;Velocidad;Tamaño;Numero de cuchillas;Residuo
+Orden;Bloque;Masa;Velocidad;Tama�o;Numero de cuchillas;Residuo
 1;1;1;1;1;-1;65
 2;1;-1;1;-1;1;3.5
 3;1;1;2;-1;1;51
@@ -7,11 +7,11 @@ Orden;Bloque;Masa;Velocidad;Tamaño;Numero de cuchillas;Residuo
 6;1;1;1;-1;-1;68
 7;1;-1;2;1;1;2.5
 8;1;-1;2;-1;-1;5
-9;2;-1;2;1;1;5
+9;2;-1;2;-1;1;5
 10;2;-1;1;1;1;4.5
-11;2;1;1;-1;-1;65
-12;2;-1;2;-1;-1;5
+11;2;1;1;1;-1;65
+12;2;-1;2;1;-1;5
 13;2;1;2;-1;-1;69
 14;2;1;2;1;1;52
 15;2;-1;1;-1;-1;7
-16;2;-1;1;1;1;55
+16;2;1;1;-1;1;55
